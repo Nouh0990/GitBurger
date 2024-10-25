@@ -1,13 +1,13 @@
 # Bienvenue chez GitBurger ! 
 Construisez votre propre halburger en utilisant des fichiers texte pour chaque couche. 
  
-## IngrÇdients disponibles 
-?? **Pain haut** : Pain briochÇ avec des graines de sÇsame sur le dessus. 
-?? **Salade** : Salade croquante et fraåche. 
-?? **Tomate** : Tranches de tomate bien mñre. 
-?? **Steak** : Steak de bouf grillÇ Ö la perfection. 
-?? **Fromage** : Tranche de cheddar fondant. 
-?? **Bacon** : Tranche de bacon croustillante. 
-?? **Pain bas** : Pain briochÇ du dessous. 
+## Ingr√©dients disponibles 
+1. ?? **Pain haut** : Pain brioch√© avec des graines de s√©same sur le dessus. 
+2. ?? **Salade** : Salade croquante et fra√©che. 
+3. ?? **Tomate** : Tranches de tomate bien mure. 
+4. ?? **Steak** : Steak de bouf grill√© √† la perfection. 
+5. ?? **Fromage** : Tranche de cheddar fondant. 
+6. ?? **Bacon** : Tranche de bacon croustillante. 
+7. ?? **Pain bas** : Pain brioch√© du dessous. 
  
-Pour crÈer et prÈvisualiser votre fichier Markdown, vous pouvez utiliser des outils en ligne comme Dillinger, par exemple. 
+Pour cr√©er et pr√©visualiser votre fichier Markdown, vous pouvez utiliser des outils en ligne comme Dillinger, par exemple. 
